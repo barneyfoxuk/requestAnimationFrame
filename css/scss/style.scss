@@ -22,10 +22,10 @@ body {
 
 .dot {
     position: absolute;
-    background: red;
     width: 6px;
     height: 6px;
     @include border-radius(3px);
+
 }
 
 

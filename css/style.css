@@ -631,7 +631,6 @@ body {
 /* line 23, scss/style.scss */
 .dot {
   position: absolute;
-  background: red;
   width: 6px;
   height: 6px;
   -webkit-border-radius: 3px;
